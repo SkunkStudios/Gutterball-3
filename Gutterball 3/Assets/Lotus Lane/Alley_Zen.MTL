@@ -1,0 +1,180 @@
+newmtl Lane
+Ks 0.047059 0.047059 0.047059
+Ns 62.720001
+map_Kd zenlanetex.TIFF
+d 1.000000
+newmtl lanesides
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd zenlanetex.TIFF
+d 1.000000
+newmtl pinBTM
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd zenPinBTM1.TIFF
+d 1.000000
+newmtl pinjungle
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd urntexture14.TIFF
+d 1.000000
+newmtl pinjungleback
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd urntexture14.TIFF
+d 1.000000
+newmtl zendeflector
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 0.000000
+newmtl zenDoors
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd doorsmedallion5.TIFF
+d 1.000000
+newmtl zenpagodamain1
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd zenpagodamain2.TIFF
+d 1.000000
+newmtl backgroundsky
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 49.919998
+d 1.000000
+newmtl watergutter
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd zenwater4.TIFF
+d 1.000000
+newmtl zengrass2
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd zengrass1.TIFF
+d 1.000000
+newmtl zenbridge
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd bridgetex4256.TIFF
+d 1.000000
+newmtl zenbridgerock4
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd pebblesinmortar3.TIFF
+d 1.000000
+newmtl zengrass
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd zengrassedge1.TIFF
+d 1.000000
+newmtl zenbridgerock3
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd pebblesinmortar3.TIFF
+d 1.000000
+newmtl zengrass1
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd zengrassedge1.TIFF
+d 1.000000
+newmtl zenhouse
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd housetex384.TIFF
+d 1.000000
+newmtl LanesApproach
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd bridgetex2.TIFF
+d 1.000000
+newmtl zenbuddah
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd zenbuddahtex4256.TIFF
+d 1.000000
+newmtl zenblack
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl zenpagodasmall1
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd zenpagodasecondary3.TIFF
+d 1.000000
+newmtl pagodainsideR
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd zenpagodamain2.TIFF
+d 1.000000
+newmtl pagodainsideL
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd zenpagodamain2.TIFF
+d 1.000000
+newmtl zenpagodapinboxwalls
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd zenpagodamain2.TIFF
+d 1.000000
+newmtl zensky
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd zenbackgroundtexflashcut1.TIFF
+d 1.000000
+newmtl zenskyright
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd zenbackgroundtexflashcut1.TIFF
+d 1.000000
+newmtl zenbridgerock2
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd pebblesinmortar3.TIFF
+d 1.000000
+newmtl zenbridgerock
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd pebblesinmortar3.TIFF
+d 1.000000
+newmtl gongback
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd gongback5.TIFF
+d 1.000000
+newmtl gongBackright
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd gongback5.TIFF
+d 1.000000
+newmtl gongBackleft
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd gongback5.TIFF
+d 1.000000
+newmtl zentorch1
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd gongzenflame.TIFF
+d 1.000000
+newmtl zentorch2
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd gongzenflame.TIFF
+d 1.000000
+newmtl gong
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd gong2.TIFF
+d 1.000000
+newmtl Zenon
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd greentile.TIFF
+d 1.000000
+newmtl Zenoff
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd redtile.TIFF
+d 1.000000

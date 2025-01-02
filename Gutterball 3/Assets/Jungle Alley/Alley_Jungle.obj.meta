@@ -1,0 +1,820 @@
+fileFormatVersion: 2
+guid: 37b9b9025f19f1d4f9ce896e6d4804de
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: alleyLayer1
+    100004: alleyLayer2
+    100006: approach
+    100008: approachbricksLayer2
+    100010: approachbricksLayer3
+    100012: approachbricksLayer4
+    100014: approachbricksLayer5
+    100016: backwall
+    100018: baricade01
+    100020: baricade02
+    100022: bumper06
+    100024: bumper07
+    100026: gutterl
+    100028: gutterr
+    100030: gutterwater
+    100032: jungleBrick1
+    100034: jungletreeTALL1
+    100036: lane
+    100038: monkeyheadD
+    100040: pin01
+    100042: pin02
+    100044: pin03
+    100046: pin04
+    100048: pin05
+    100050: pin06
+    100052: pin07
+    100054: pin08
+    100056: pin09
+    100058: pin10
+    100060: pinlights1
+    100062: pinlights10
+    100064: pinlights2
+    100066: pinlights3
+    100068: pinlights4
+    100070: pinlights5
+    100072: pinlights6
+    100074: pinlights7
+    100076: pinlights8
+    100078: pinlights9
+    100080: pinlightsFrameB
+    100082: returnchannelr
+    100084: scooper
+    400000: //RootNode
+    400002: alleyLayer1
+    400004: alleyLayer2
+    400006: approach
+    400008: approachbricksLayer2
+    400010: approachbricksLayer3
+    400012: approachbricksLayer4
+    400014: approachbricksLayer5
+    400016: backwall
+    400018: baricade01
+    400020: baricade02
+    400022: bumper06
+    400024: bumper07
+    400026: gutterl
+    400028: gutterr
+    400030: gutterwater
+    400032: jungleBrick1
+    400034: jungletreeTALL1
+    400036: lane
+    400038: monkeyheadD
+    400040: pin01
+    400042: pin02
+    400044: pin03
+    400046: pin04
+    400048: pin05
+    400050: pin06
+    400052: pin07
+    400054: pin08
+    400056: pin09
+    400058: pin10
+    400060: pinlights1
+    400062: pinlights10
+    400064: pinlights2
+    400066: pinlights3
+    400068: pinlights4
+    400070: pinlights5
+    400072: pinlights6
+    400074: pinlights7
+    400076: pinlights8
+    400078: pinlights9
+    400080: pinlightsFrameB
+    400082: returnchannelr
+    400084: scooper
+    2100000: gutteroverlapL
+    2100002: grassinsideHEADlft
+    2100004: RtBttmLightChannel
+    2100006: gutteroverlap
+    2100008: grassinsideHEAD
+    2100010: grassbackground
+    2100012: LftBttmLightChannel
+    2100014: junglesecondary
+    2100016: junglesecondaryBACK
+    2100018: jungleroofgap
+    2100020: jungleroofleaves
+    2100022: LanesApproach
+    2100024: approachgrass
+    2100026: approachbricksingle
+    2100028: approachbrickFB
+    2100030: approachbricktop
+    2100032: backwalldark
+    2100034: backwall
+    2100036: Baricade01
+    2100038: Baricade02
+    2100040: Bumper07
+    2100042: gutterl
+    2100044: gutterr
+    2100046: watergutter
+    2100048: brickbevel1
+    2100050: brickbevel2
+    2100052: treeTall1
+    2100054: treeTall1base3
+    2100056: treeTall1base1
+    2100058: treeTall1base2
+    2100060: Lane
+    2100062: cheekR
+    2100064: cheekRbtm
+    2100066: cheekLbtm
+    2100068: cheekL
+    2100070: facenose
+    2100072: cheektilehole3
+    2100074: headgrey1
+    2100076: cheektilehole2
+    2100078: cheekbrickshit1
+    2100080: faceeyes
+    2100082: headtempleleft
+    2100084: headtempleright
+    2100086: eyeholeright
+    2100088: eyeholeleft
+    2100090: mouthinnerRing
+    2100092: mouthmiddlefront
+    2100094: mouthleftfront
+    2100096: mouthrightfront
+    2100098: mouthbrickout4
+    2100100: mouthbrickout5
+    2100102: HOLEside1
+    2100104: HOLEside2
+    2100106: HOLEside3
+    2100108: HOLEinside1
+    2100110: mouthbrickout2
+    2100112: HOLEinside2
+    2100114: mouthbrickout6
+    2100116: mouthbrickout1
+    2100118: mouthbrickout3
+    2100120: Default
+    2100122: mouthringoutside
+    2100124: monkeythroatRIGHT
+    2100126: facenoseright
+    2100128: earback
+    2100130: earleftUL
+    2100132: earleftLL
+    2100134: earleftUR
+    2100136: earcenter
+    2100138: pinjungle
+    2100140: jungleoff
+    2100142: jungleon
+    2100144: pinLightframe
+    2100146: ballReturnrpart2
+    2100148: ballReturnrpart1
+    2100150: returnrholder
+    2100152: returnrchannel
+    2100154: returnend
+    2100156: returnrrampsides
+    2100158: sweeper-barTOP
+    2100160: sweeper-barBTM
+    2100162: sweeper-edges
+    2100164: sweeper-panels
+    2100166: sweeper-armsides
+    2100168: bamboopole1
+    2100170: bamboopoleends
+    2100172: sweeper-panelsBACK
+    2300000: alleyLayer1
+    2300002: alleyLayer2
+    2300004: approach
+    2300006: approachbricksLayer2
+    2300008: approachbricksLayer3
+    2300010: approachbricksLayer4
+    2300012: approachbricksLayer5
+    2300014: backwall
+    2300016: baricade01
+    2300018: baricade02
+    2300020: bumper06
+    2300022: bumper07
+    2300024: gutterl
+    2300026: gutterr
+    2300028: gutterwater
+    2300030: jungleBrick1
+    2300032: jungletreeTALL1
+    2300034: lane
+    2300036: monkeyheadD
+    2300038: pin01
+    2300040: pin02
+    2300042: pin03
+    2300044: pin04
+    2300046: pin05
+    2300048: pin06
+    2300050: pin07
+    2300052: pin08
+    2300054: pin09
+    2300056: pin10
+    2300058: pinlights1
+    2300060: pinlights10
+    2300062: pinlights2
+    2300064: pinlights3
+    2300066: pinlights4
+    2300068: pinlights5
+    2300070: pinlights6
+    2300072: pinlights7
+    2300074: pinlights8
+    2300076: pinlights9
+    2300078: pinlightsFrameB
+    2300080: returnchannelr
+    2300082: scooper
+    3300000: alleyLayer1
+    3300002: alleyLayer2
+    3300004: approach
+    3300006: approachbricksLayer2
+    3300008: approachbricksLayer3
+    3300010: approachbricksLayer4
+    3300012: approachbricksLayer5
+    3300014: backwall
+    3300016: baricade01
+    3300018: baricade02
+    3300020: bumper06
+    3300022: bumper07
+    3300024: gutterl
+    3300026: gutterr
+    3300028: gutterwater
+    3300030: jungleBrick1
+    3300032: jungletreeTALL1
+    3300034: lane
+    3300036: monkeyheadD
+    3300038: pin01
+    3300040: pin02
+    3300042: pin03
+    3300044: pin04
+    3300046: pin05
+    3300048: pin06
+    3300050: pin07
+    3300052: pin08
+    3300054: pin09
+    3300056: pin10
+    3300058: pinlights1
+    3300060: pinlights10
+    3300062: pinlights2
+    3300064: pinlights3
+    3300066: pinlights4
+    3300068: pinlights5
+    3300070: pinlights6
+    3300072: pinlights7
+    3300074: pinlights8
+    3300076: pinlights9
+    3300078: pinlightsFrameB
+    3300080: returnchannelr
+    3300082: scooper
+    4300000: alleyLayer1
+    4300002: alleyLayer2
+    4300004: approach
+    4300006: approachbricksLayer2
+    4300008: approachbricksLayer3
+    4300010: approachbricksLayer4
+    4300012: approachbricksLayer5
+    4300014: backwall
+    4300016: baricade01
+    4300018: baricade02
+    4300020: bumper06
+    4300022: bumper07
+    4300024: gutterl
+    4300026: gutterr
+    4300028: gutterwater
+    4300030: jungleBrick1
+    4300032: jungletreeTALL1
+    4300034: lane
+    4300036: monkeyheadD
+    4300038: pin01
+    4300040: pin02
+    4300042: pin03
+    4300044: pin04
+    4300046: pin05
+    4300048: pin06
+    4300050: pin07
+    4300052: pin08
+    4300054: pin09
+    4300056: pin10
+    4300058: pinlights1
+    4300060: pinlights10
+    4300062: pinlights2
+    4300064: pinlights3
+    4300066: pinlights4
+    4300068: pinlights5
+    4300070: pinlights6
+    4300072: pinlights7
+    4300074: pinlights8
+    4300076: pinlights9
+    4300078: pinlightsFrameB
+    4300080: returnchannelr
+    4300082: scooper
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Baricade01
+    second: {fileID: 2100000, guid: ffe5653cc3747324e9746fe541925cdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Baricade02
+    second: {fileID: 2100000, guid: 527a61a049bb2fa4d916429e137f24a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bumper07
+    second: {fileID: 2100000, guid: 01e2806b93840804fa6d390933dc66af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default
+    second: {fileID: 2100000, guid: be86e2503ed2f124faa8b0e6816e21ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HOLEinside1
+    second: {fileID: 2100000, guid: a2db6bb379a467e439cb331d82d4e897, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HOLEinside2
+    second: {fileID: 2100000, guid: bcda777d6289fa94eb6e278ce0b95856, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HOLEside1
+    second: {fileID: 2100000, guid: 4de6503c2021b864f9607beedf139e01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HOLEside2
+    second: {fileID: 2100000, guid: ebeb45780db49d047ac6d5e9e98d71d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HOLEside3
+    second: {fileID: 2100000, guid: 9e6cbef1972a75e4092f80a42adf2f27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lane
+    second: {fileID: 2100000, guid: 9e9b5039315274f4bbf156a99b2a40d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LanesApproach
+    second: {fileID: 2100000, guid: 47e450338a12b7c4d9670e9707c7bc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LftBttmLightChannel
+    second: {fileID: 2100000, guid: 5d180eb62772cfc46aad862de2d37155, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RtBttmLightChannel
+    second: {fileID: 2100000, guid: 4203be6e0def9ac4288f7a882131bc0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: approachbrickFB
+    second: {fileID: 2100000, guid: 8fd560d12b81b9d49bd8860b13ffa110, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: approachbricksingle
+    second: {fileID: 2100000, guid: e2c1f90625aacd64d8ada7f9d386d10c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: approachbricktop
+    second: {fileID: 2100000, guid: fa7237293eb6852468e0dec680a5dc45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: approachgrass
+    second: {fileID: 2100000, guid: d497c6060b6f05c4fb3d4a78a652cd8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: backwall
+    second: {fileID: 2100000, guid: 5b8bceb75be26aa4bbec0a1e6e4a294b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: backwalldark
+    second: {fileID: 2100000, guid: 066383515a159534dab25d166486fcd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ballReturnrpart1
+    second: {fileID: 2100000, guid: 67b45633bf1b91742bfb5277952b98f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ballReturnrpart2
+    second: {fileID: 2100000, guid: 685803180b7a51143ab6afdb04d82e7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bamboopole1
+    second: {fileID: 2100000, guid: 91c323d847bef3848894fa708041d668, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bamboopoleends
+    second: {fileID: 2100000, guid: c06df646679c5de42a9e015a0c12bd5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brickbevel1
+    second: {fileID: 2100000, guid: b328ef40204f9b949b204764288570c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brickbevel2
+    second: {fileID: 2100000, guid: c19c18c3a19e4f34bb278c6036a1db25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cheekL
+    second: {fileID: 2100000, guid: a12268f62611b6d4bbcecc5c5007620b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cheekLbtm
+    second: {fileID: 2100000, guid: 5ac51b91acf883047a5757f4445bdd46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cheekR
+    second: {fileID: 2100000, guid: a0ffae376cacc2542b8773a408c32ee8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cheekRbtm
+    second: {fileID: 2100000, guid: c492f8e6669500242a8e18f55350b976, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cheekbrickshit1
+    second: {fileID: 2100000, guid: 95715dedf85a3f24eaee7cc612ce3634, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cheektilehole2
+    second: {fileID: 2100000, guid: 72937208fc938d24890552f8869ec164, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cheektilehole3
+    second: {fileID: 2100000, guid: 20f19512a1f1ddc4cb959efd21c7409a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: earback
+    second: {fileID: 2100000, guid: 84b5cb6e5773a704aa492e3264d26fc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: earcenter
+    second: {fileID: 2100000, guid: bb6b06e78e3154143b71afc0859538ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: earleftLL
+    second: {fileID: 2100000, guid: 7c570874c183a114289cd124a8647321, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: earleftUL
+    second: {fileID: 2100000, guid: 57ecbf371c0d8d34888c24a218e75e9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: earleftUR
+    second: {fileID: 2100000, guid: 3240eb28bb62e744091e7e95a6c3411c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyeholeleft
+    second: {fileID: 2100000, guid: df517d38ded0c594791c0721282e8294, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyeholeright
+    second: {fileID: 2100000, guid: 4af43603270e04441bd7c861777ded83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: faceeyes
+    second: {fileID: 2100000, guid: 0d7abcb472c0f3545a5837db3c758f67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: facenose
+    second: {fileID: 2100000, guid: c8035d82fbe41294d8f5e410d22f15bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: facenoseright
+    second: {fileID: 2100000, guid: c0f2cb24c4ed2aa429578d664673a615, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grassbackground
+    second: {fileID: 2100000, guid: 9a91baba5be45bf48b0c81f9a3ff9644, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grassinsideHEAD
+    second: {fileID: 2100000, guid: acba9d1c963bcbf4687830a31e57137c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grassinsideHEADlft
+    second: {fileID: 2100000, guid: c5e21c22fcb4ba74f80620d1162f72dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gutterl
+    second: {fileID: 2100000, guid: 430a99556a0ebe74fb71b918a42c27d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gutteroverlap
+    second: {fileID: 2100000, guid: 213a8d78e872e2d4692bb8c6f4a39810, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gutteroverlapL
+    second: {fileID: 2100000, guid: ab1b45c5a86cfa747a9e29ee2a5ad065, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gutterr
+    second: {fileID: 2100000, guid: 029e85e9d18467d4da948d450642756d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: headgrey1
+    second: {fileID: 2100000, guid: c48a2441787e70c4fab9183e080d737d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: headtempleleft
+    second: {fileID: 2100000, guid: 1e31176fd9e55fe428f5e7e778300cf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: headtempleright
+    second: {fileID: 2100000, guid: d468a4b956724274db0bfc3567fc96d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jungleoff
+    second: {fileID: 2100000, guid: 877e51aeb33824248a4ce95d9b555c91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jungleon
+    second: {fileID: 2100000, guid: 9af84e8bf38522848a8b16b5698b69fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jungleroofgap
+    second: {fileID: 2100000, guid: d8e99e76558bac94984119d9c08c1b87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jungleroofleaves
+    second: {fileID: 2100000, guid: 38ed4e7a897fbd042af6010b242517d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: junglesecondary
+    second: {fileID: 2100000, guid: f3c1ee8432849744ea8f1223896ba9c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: junglesecondaryBACK
+    second: {fileID: 2100000, guid: 82854b7ad692cdd448c5ad941d2b5497, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monkeythroatRIGHT
+    second: {fileID: 2100000, guid: d79263942f3ba4d459c49058acc89e2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mouthbrickout1
+    second: {fileID: 2100000, guid: c689f1804b54f344b991a11420ea1440, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mouthbrickout2
+    second: {fileID: 2100000, guid: 1ef54971d09be474a964c176fab11beb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mouthbrickout3
+    second: {fileID: 2100000, guid: 6942fe2bc7a760f4b9daebbfc3228a3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mouthbrickout4
+    second: {fileID: 2100000, guid: c2bfcba6172d6da4bb27815c3802b727, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mouthbrickout5
+    second: {fileID: 2100000, guid: f252da1bcbf65114db98719a82568d60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mouthbrickout6
+    second: {fileID: 2100000, guid: e8b63cdb8eda7e9459034636322f7d96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mouthinnerRing
+    second: {fileID: 2100000, guid: 593282a2f7fc939499a0c680d4f0fb58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mouthleftfront
+    second: {fileID: 2100000, guid: c58385238df0a2444b5fc25418a80e3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mouthmiddlefront
+    second: {fileID: 2100000, guid: 1eecacc95acc0ea40a34d8c60ee79f63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mouthrightfront
+    second: {fileID: 2100000, guid: cba52212b61db9c4eb8b30ce6b3d8ac7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mouthringoutside
+    second: {fileID: 2100000, guid: 2f39d4ac73854e843ad5e0eb56cd5ea8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pinLightframe
+    second: {fileID: 2100000, guid: e8189ce21a9e19841b18ee953d5d1b65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pinjungle
+    second: {fileID: 2100000, guid: 5dfca8181a617554fa50d8ce7be0628d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: returnend
+    second: {fileID: 2100000, guid: 42b6150f7e863d4498caef88703cc22d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: returnrchannel
+    second: {fileID: 2100000, guid: 9b5d12ac26e85ac41a3bee4d43a0a3e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: returnrholder
+    second: {fileID: 2100000, guid: f4142badf0826de4d99cd4fcf2c3d033, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: returnrrampsides
+    second: {fileID: 2100000, guid: f944d798705e9b7439bcec6f28ce8164, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sweeper-armsides
+    second: {fileID: 2100000, guid: 0585982f42b82b246a0d648da17f0351, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sweeper-barBTM
+    second: {fileID: 2100000, guid: 15f570a0086c5c94593849973ac902ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sweeper-barTOP
+    second: {fileID: 2100000, guid: 6aa54e8ad851b634bab0c121e3b96ea9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sweeper-edges
+    second: {fileID: 2100000, guid: c58bef77ae1c73a44809fd486be399c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sweeper-panels
+    second: {fileID: 2100000, guid: 7c7a19c0054809e42b11e9875716f53e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sweeper-panelsBACK
+    second: {fileID: 2100000, guid: 24305a26805a7564ab5860bbd3c123c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: treeTall1
+    second: {fileID: 2100000, guid: b8b5c066b5217df429280daf497cf677, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: treeTall1base1
+    second: {fileID: 2100000, guid: af5698a69fae5a34682e30e6af46fc6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: treeTall1base2
+    second: {fileID: 2100000, guid: 80345e65f46f8e349bfc971c6d5d9b2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: treeTall1base3
+    second: {fileID: 2100000, guid: e784d7d30238dc345b67d4fb3876a511, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: watergutter
+    second: {fileID: 2100000, guid: 42d0720a324b2494aa5390d1da8486b2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

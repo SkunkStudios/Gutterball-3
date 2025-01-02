@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0b8b8fe0d2926284aa1658e96ee39829
+timeCreated: 1731731187
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nickodemus-Extremus
+  fontNames:
+  - Nickodemus-Extremus
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

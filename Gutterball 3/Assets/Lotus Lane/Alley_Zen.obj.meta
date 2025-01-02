@@ -1,0 +1,484 @@
+fileFormatVersion: 2
+guid: 0129beb5f4a0879418e7fd2616529fa5
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: approach
+    100004: gutterwater
+    100006: Icebergsky
+    100008: lane
+    100010: pin01
+    100012: pin02
+    100014: pin03
+    100016: pin04
+    100018: pin05
+    100020: pin06
+    100022: pin07
+    100024: pin08
+    100026: pin09
+    100028: pin10
+    100030: pinlights1
+    100032: pinlights10
+    100034: pinlights2
+    100036: pinlights3
+    100038: pinlights4
+    100040: pinlights5
+    100042: pinlights6
+    100044: pinlights7
+    100046: pinlights8
+    100048: pinlights9
+    100050: zendeflector
+    100052: zengardenImportedOBJObject
+    100054: zengardenLayer10
+    100056: zengardenLayer11
+    100058: zengardenLayer2
+    100060: zengardenLayer3
+    100062: zengardenLayer4
+    100064: zengardenLayer5
+    100066: zengardenLayer6
+    100068: zengardenLayer7
+    100070: zengardenLayer8
+    100072: zengardenLayer9
+    400000: //RootNode
+    400002: approach
+    400004: gutterwater
+    400006: Icebergsky
+    400008: lane
+    400010: pin01
+    400012: pin02
+    400014: pin03
+    400016: pin04
+    400018: pin05
+    400020: pin06
+    400022: pin07
+    400024: pin08
+    400026: pin09
+    400028: pin10
+    400030: pinlights1
+    400032: pinlights10
+    400034: pinlights2
+    400036: pinlights3
+    400038: pinlights4
+    400040: pinlights5
+    400042: pinlights6
+    400044: pinlights7
+    400046: pinlights8
+    400048: pinlights9
+    400050: zendeflector
+    400052: zengardenImportedOBJObject
+    400054: zengardenLayer10
+    400056: zengardenLayer11
+    400058: zengardenLayer2
+    400060: zengardenLayer3
+    400062: zengardenLayer4
+    400064: zengardenLayer5
+    400066: zengardenLayer6
+    400068: zengardenLayer7
+    400070: zengardenLayer8
+    400072: zengardenLayer9
+    2100000: LanesApproach
+    2100002: watergutter
+    2100004: backgroundsky
+    2100006: Lane
+    2100008: lanesides
+    2100010: pinBTM
+    2100012: pinjungle
+    2100014: pinjungleback
+    2100016: Zenon
+    2100018: Zenoff
+    2100020: zendeflector
+    2100022: zengrass2
+    2100024: zenbridge
+    2100026: zenbridgerock4
+    2100028: zengrass
+    2100030: zenbridgerock3
+    2100032: zengrass1
+    2100034: gongback
+    2100036: gongBackright
+    2100038: gongBackleft
+    2100040: zentorch1
+    2100042: zentorch2
+    2100044: gong
+    2100046: zenhouse
+    2100048: zenpagodamain1
+    2100050: zenpagodasmall1
+    2100052: pagodainsideR
+    2100054: zenblack
+    2100056: pagodainsideL
+    2100058: zenpagodapinboxwalls
+    2100060: zenbuddah
+    2100062: zensky
+    2100064: zenskyright
+    2100066: zenbridgerock2
+    2100068: zenbridgerock
+    2100070: zenDoors
+    2300000: approach
+    2300002: gutterwater
+    2300004: Icebergsky
+    2300006: lane
+    2300008: pin01
+    2300010: pin02
+    2300012: pin03
+    2300014: pin04
+    2300016: pin05
+    2300018: pin06
+    2300020: pin07
+    2300022: pin08
+    2300024: pin09
+    2300026: pin10
+    2300028: pinlights1
+    2300030: pinlights10
+    2300032: pinlights2
+    2300034: pinlights3
+    2300036: pinlights4
+    2300038: pinlights5
+    2300040: pinlights6
+    2300042: pinlights7
+    2300044: pinlights8
+    2300046: pinlights9
+    2300048: zendeflector
+    2300050: zengardenImportedOBJObject
+    2300052: zengardenLayer10
+    2300054: zengardenLayer11
+    2300056: zengardenLayer2
+    2300058: zengardenLayer3
+    2300060: zengardenLayer4
+    2300062: zengardenLayer5
+    2300064: zengardenLayer6
+    2300066: zengardenLayer7
+    2300068: zengardenLayer8
+    2300070: zengardenLayer9
+    3300000: approach
+    3300002: gutterwater
+    3300004: Icebergsky
+    3300006: lane
+    3300008: pin01
+    3300010: pin02
+    3300012: pin03
+    3300014: pin04
+    3300016: pin05
+    3300018: pin06
+    3300020: pin07
+    3300022: pin08
+    3300024: pin09
+    3300026: pin10
+    3300028: pinlights1
+    3300030: pinlights10
+    3300032: pinlights2
+    3300034: pinlights3
+    3300036: pinlights4
+    3300038: pinlights5
+    3300040: pinlights6
+    3300042: pinlights7
+    3300044: pinlights8
+    3300046: pinlights9
+    3300048: zendeflector
+    3300050: zengardenImportedOBJObject
+    3300052: zengardenLayer10
+    3300054: zengardenLayer11
+    3300056: zengardenLayer2
+    3300058: zengardenLayer3
+    3300060: zengardenLayer4
+    3300062: zengardenLayer5
+    3300064: zengardenLayer6
+    3300066: zengardenLayer7
+    3300068: zengardenLayer8
+    3300070: zengardenLayer9
+    4300000: approach
+    4300002: gutterwater
+    4300004: Icebergsky
+    4300006: lane
+    4300008: pin01
+    4300010: pin02
+    4300012: pin03
+    4300014: pin04
+    4300016: pin05
+    4300018: pin06
+    4300020: pin07
+    4300022: pin08
+    4300024: pin09
+    4300026: pin10
+    4300028: pinlights1
+    4300030: pinlights10
+    4300032: pinlights2
+    4300034: pinlights3
+    4300036: pinlights4
+    4300038: pinlights5
+    4300040: pinlights6
+    4300042: pinlights7
+    4300044: pinlights8
+    4300046: pinlights9
+    4300048: zendeflector
+    4300050: zengardenImportedOBJObject
+    4300052: zengardenLayer10
+    4300054: zengardenLayer11
+    4300056: zengardenLayer2
+    4300058: zengardenLayer3
+    4300060: zengardenLayer4
+    4300062: zengardenLayer5
+    4300064: zengardenLayer6
+    4300066: zengardenLayer7
+    4300068: zengardenLayer8
+    4300070: zengardenLayer9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lane
+    second: {fileID: 2100000, guid: 91d4193087ba360418bd5a9a1cdb1e47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LanesApproach
+    second: {fileID: 2100000, guid: dfd4909611998094e9710b186f7fdec8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zenoff
+    second: {fileID: 2100000, guid: d8dbd88d2e9c8ff40925781bb5bd89dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zenon
+    second: {fileID: 2100000, guid: a5446b05f8ddfc5488cc47dca305e785, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: backgroundsky
+    second: {fileID: 2100000, guid: 52ad4e056c0cd8144ad6ed6e75cc8f80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gong
+    second: {fileID: 2100000, guid: 46ba69536a1bf024485dc6bb1734b389, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gongBackleft
+    second: {fileID: 2100000, guid: 55322aa08a4ecfa4fb52bcb2bc9d1798, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gongBackright
+    second: {fileID: 2100000, guid: a7615fdf6f0f311418f17c7ba60f211d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gongback
+    second: {fileID: 2100000, guid: c068ec7a3987af0459c3dc531722503b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lanesides
+    second: {fileID: 2100000, guid: 9e31d54c8e854d243aa96c1f8899dc83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pagodainsideL
+    second: {fileID: 2100000, guid: 186fe8f7fbb98b3498b2536f6c913191, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pagodainsideR
+    second: {fileID: 2100000, guid: 15f989b0e87cd5d478eae7ed76d6d403, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pinBTM
+    second: {fileID: 2100000, guid: dcb2bb9d23378ae4ab45af029a4f6393, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pinjungle
+    second: {fileID: 2100000, guid: ffbc80e63fec3c9439a994f9f29aafb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pinjungleback
+    second: {fileID: 2100000, guid: 25a7c32ad2208bc4e9554803c8da73dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: watergutter
+    second: {fileID: 2100000, guid: 34f957bc4f4931b4ba638c1b24eaec90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zenDoors
+    second: {fileID: 2100000, guid: 5a57d86f5837c764da1f1778ca06a619, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zenblack
+    second: {fileID: 2100000, guid: a29ce5cc9876e824799e05ca0f759ee8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zenbridge
+    second: {fileID: 2100000, guid: ecd547b1e07714b49bf821253b0117c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zenbridgerock
+    second: {fileID: 2100000, guid: e956eb2b884d5924f9cbfe06031d395b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zenbridgerock2
+    second: {fileID: 2100000, guid: c2a5e596887eed44b9fd59980b04dfdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zenbridgerock3
+    second: {fileID: 2100000, guid: 22868a32335bd8e4ea77fedc87ac9ce2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zenbridgerock4
+    second: {fileID: 2100000, guid: f6e2f22648a5fa5438f743c550b86d84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zenbuddah
+    second: {fileID: 2100000, guid: 938112426c5523245a0e1bcaedc45364, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zendeflector
+    second: {fileID: 2100000, guid: c944f2b3c030cc7479194c779060c818, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zengrass
+    second: {fileID: 2100000, guid: 4ced4c20015f5f14d8b04dccf9dd112f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zengrass1
+    second: {fileID: 2100000, guid: 72eea90b94125ad4181a0a71dcb3b98c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zengrass2
+    second: {fileID: 2100000, guid: 11adb32cbba9039459b34341ab025a79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zenhouse
+    second: {fileID: 2100000, guid: a635a371e21e37745918daa94dbfee93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zenpagodamain1
+    second: {fileID: 2100000, guid: db4f4094b7bcbf24688c7bdbd2794caa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zenpagodapinboxwalls
+    second: {fileID: 2100000, guid: ec7dc5d7e182cfc449475d686582125e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zenpagodasmall1
+    second: {fileID: 2100000, guid: afbb4d69b04b59d41822496f4f2e087a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zensky
+    second: {fileID: 2100000, guid: 3ece21c11c119dd46b84e2256d45f07e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zenskyright
+    second: {fileID: 2100000, guid: 0daf916f31eddc248b88485c654b17d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zentorch1
+    second: {fileID: 2100000, guid: 5834ff30694cdbf4bb6b4e82b91c097c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zentorch2
+    second: {fileID: 2100000, guid: 14582598194325c408a4985198267552, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

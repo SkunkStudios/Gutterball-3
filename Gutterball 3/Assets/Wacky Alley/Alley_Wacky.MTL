@@ -1,0 +1,206 @@
+newmtl whackyApproach
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd wackywater3.TIFF
+d 1.000000
+newmtl GiantPin-teethgums
+Kd 0.796078 0.317647 0.592157
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl GiantPin-tooth1
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd giantPintooth1.TIFF
+d 1.000000
+newmtl giantPin-lipTop
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl giantPin-snarlinner
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd giantPinthroatPurple1.TIFF
+d 1.000000
+newmtl lane-right-edges
+Kd 0.976471 1.000000 0.137255
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl lane-right-top
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd laneblue.TIFF
+d 1.000000
+newmtl lane-rightleft-btm
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd wackylanerepeat3.TIFF
+d 1.000000
+newmtl lane-center-edges
+Kd 0.054902 0.901961 0.109804
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl lane-center-BTM
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd wackylanerepeat3.TIFF
+d 1.000000
+newmtl lane-center-top
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd laneyellow.TIFF
+d 1.000000
+newmtl lane-left-edges
+Kd 0.968627 0.980392 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl lanebarricades1
+Kd 0.784314 0.784314 0.784314
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 0.000000
+newmtl lane-left-top
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd laneblue.TIFF
+d 1.000000
+newmtl lanebarricades2
+Kd 0.784314 0.784314 0.784314
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 0.000000
+newmtl lane-tongue
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd giantPintongue1.TIFF
+d 1.000000
+newmtl giantPin-eybrows
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl giantPin-black
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl giantPin-nosearea
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd giantPinstitches1.TIFF
+d 1.000000
+newmtl giantPin-head
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd giantPinstitches1.TIFF
+d 1.000000
+newmtl giantPin-eyeright
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd wackPinmap.TIFF
+d 1.000000
+newmtl giantPin-eyeLeft
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd wackPinmap.TIFF
+d 1.000000
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl GiantPin-arm1
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd giantPinhand2.TIFF
+d 1.000000
+newmtl box1
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd wackybox14.TIFF
+d 1.000000
+newmtl crowdpoly1
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd wackyArenarows4.TIFF
+d 1.000000
+newmtl arenawallcolumn1
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd lanecurtains2.TIFF
+d 1.000000
+newmtl arena-floorringtop
+Kd 0.894118 0.662745 0.066667
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl arena-floorringsides
+Kd 0.631373 0.466667 0.039216
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl arena-floor
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd wackypurpleFade2256.TIFF
+d 1.000000
+newmtl pinwackfront
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd pineyes4front.TIFF
+d 1.000000
+newmtl pinwackneck
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl pinwackback
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd pineyes4back.TIFF
+d 1.000000
+newmtl pinwackbtm
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd pineyes3BTM.TIFF
+d 1.000000
+newmtl eyesWACKEDsmall
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd eyesWHACKED.TIFF
+d 1.000000
+newmtl wackypinHolderfront
+Kd 0.062745 0.784314 0.031373
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl wackypinHolder
+Kd 0.035294 1.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl wackyon
+Ks 0.000000 0.000000 0.000000
+Ns 49.919998
+map_Kd giantPinthroatPurple1.TIFF
+d 1.000000
+newmtl wackyoff
+Ks 0.000000 0.000000 0.000000
+Ns 49.919998
+map_Kd giantPinthroatPurple1.TIFF
+d 1.000000
+newmtl arenabackwalldisc
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd wackybox9.TIFF
+d 1.000000
+newmtl null
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+d 0.000000

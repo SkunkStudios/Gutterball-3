@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Water
+  - Music
+  - Lane
+  - Fall
+  - Pin
+  - Sound
+  - Roll
+  - Backwall
+  - Gutter
+  - Ball
+  - Expl
+  - Replay
+  - Chars
+  - Particles
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Lane
+  - Alley
+  - Ball
+  - Pin
+  - Space
+  - Planet
+  - Galo
+  - InfoLogo
+  - 1stInfoLogo
+  - Overlays
+  - Chars
+  - ReactOverlays
+  - ReactChars
+  - ScoreCardOverlays
+  - ScoreCardChars
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

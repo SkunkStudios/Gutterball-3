@@ -1,0 +1,250 @@
+newmtl LanesApproach
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd retroLanewood1.TIFF
+d 1.000000
+newmtl Baricade01
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 49.919998
+d 0.000000
+newmtl Baricade02
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 49.919998
+d 0.000000
+newmtl gutterl
+Ks 0.047059 0.047059 0.047059
+Ns 62.720001
+map_Kd retrogutterblue256.TIFF
+d 1.000000
+newmtl gutterrpinblock1
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retrobackwall2.TIFF
+d 1.000000
+newmtl ballReturnrpart2
+Ks 0.000000 0.000000 0.000000
+Ns 49.919998
+map_Kd retroguttersilver256.TIFF
+d 1.000000
+newmtl ballReturnrpart1
+Ks 0.000000 0.000000 0.000000
+Ns 49.919998
+map_Kd retroguttersilver256.TIFF
+d 1.000000
+newmtl returnrchannel
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retroguttersilver256.TIFF
+d 1.000000
+newmtl returnneonpanel1
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retroneononsilver2.TIFF
+d 1.000000
+newmtl returnneoncapper1
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retroneononsilver2.TIFF
+d 1.000000
+newmtl returnrrampsides2
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retroneononsilver2.TIFF
+d 1.000000
+newmtl Lane
+Ks 0.047059 0.047059 0.047059
+Ns 62.720001
+map_Kd retroLanewood3.TIFF
+d 1.000000
+newmtl lanedropblocker
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retrobackwall2.TIFF
+d 1.000000
+newmtl lanedropblockerBLACK
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl sweeper-edges
+Kd 0.898039 0.890196 0.886275
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl scooperlogoPanel
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retroneononsilver1.TIFF
+d 1.000000
+newmtl sweeper-armsides
+Kd 0.607843 0.603922 0.592157
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl sweeper-panelsL
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retroneononsilver2.TIFF
+d 1.000000
+newmtl sweeper-panelsR
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retroneononsilver2.TIFF
+d 1.000000
+newmtl scoopertopbar
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retroceilingTile1.TIFF
+d 1.000000
+newmtl scooperbtmbar
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retroceilingTile1.TIFF
+d 1.000000
+newmtl backwall
+Ks 0.000000 0.000000 0.000000
+Ns 49.919998
+map_Kd retrobackwall2.TIFF
+d 1.000000
+newmtl backwalllogo
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retrobackwall2.TIFF
+d 1.000000
+newmtl pinjungle
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retroSKlogo6.TIFF
+d 1.000000
+newmtl pinretrobacksliver
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retroSKlogo6.TIFF
+d 1.000000
+newmtl pinretroBTM
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retropinBTM1.TIFF
+d 1.000000
+newmtl pinstripes
+Kd 0.882353 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl Lanekeft
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retroLanewood3.TIFF
+d 1.000000
+newmtl gutterr
+Ks 0.047059 0.047059 0.047059
+Ns 62.720001
+map_Kd retrogutterblue256.TIFF
+d 1.000000
+newmtl Laneright
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retroLanewood3.TIFF
+d 1.000000
+newmtl RetroWallPin1
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retropinstripe2.TIFF
+d 1.000000
+newmtl wallstar1
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl GutterBallLogoSign
+Ks 0.007843 0.007843 0.007843
+Ns 51.200001
+map_Kd retroGBHDRsign2.TIFF
+d 1.000000
+newmtl neonbtmbar
+Kd 0.956863 0.192157 0.184314
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl GutterBallLogoSignNeon
+Kd 0.945098 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl GutterBallLogoSign-flip
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retroGBHDRsign2.TIFF
+d 1.000000
+newmtl neonbars-flipped
+Kd 0.921569 0.000000 0.007843
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl wallNEW
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retroWallpinsstars13384.TIFF
+d 1.000000
+newmtl lanegaps
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retroLanewoodapproach.TIFF
+d 1.000000
+newmtl FrntCeilingPanelBTM2
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retrobackwalllowerBLUE.TIFF
+d 1.000000
+newmtl waveNEW
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retrowallBTM2.TIFF
+d 1.000000
+newmtl FrntCeilingPanelBTM
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd ceilingPanelbackwall2.TIFF
+d 1.000000
+newmtl FrontPanelcurvtop
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retroblueStripesOnly.TIFF
+d 1.000000
+newmtl FrontPaneloverhangtop
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retroblueStripesOnly.TIFF
+d 1.000000
+newmtl FrontPanelcurvbtm
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd retroblueStripesOnly.TIFF
+d 1.000000
+newmtl CeilingNEW
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd ceilingNEWflip256.TIFF
+d 1.000000
+newmtl CeilingNEWendcap
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd ceilingNEWflip256.TIFF
+d 1.000000
+newmtl wackpinlightframe
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl retroon
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl retrooff
+Kd 0.721569 0.035294 0.050980
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000

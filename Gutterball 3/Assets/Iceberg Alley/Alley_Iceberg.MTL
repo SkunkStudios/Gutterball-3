@@ -1,0 +1,156 @@
+newmtl icebergtop
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd icberg1.TIFF
+d 1.000000
+newmtl icebergsides
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd icberg2sides.TIFF
+d 1.000000
+newmtl Lanesides
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd icberg2sides.TIFF
+d 1.000000
+newmtl Lane
+Ks 0.047059 0.047059 0.047059
+Ns 62.720001
+map_Kd lane7.TIFF
+d 1.000000
+newmtl lanepinboxshadow2
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd lane7shadow.TIFF
+d 1.000000
+newmtl iceberghead
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd iceberghead3.TIFF
+d 1.000000
+newmtl icebergsweeperArms
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd iceberghead2.TIFF
+d 1.000000
+newmtl pincolor2
+Kd 1.000000 0.039216 0.015686
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl pincolor7
+Kd 0.945098 0.058824 0.074510
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl pincolor1
+Kd 0.635294 0.019608 0.003922
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl pincolor5
+Kd 0.784314 0.133333 0.286275
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl pincolor3
+Kd 0.756863 0.023529 0.007843
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl pincolor6
+Kd 0.945098 0.168627 0.211765
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl pincolor4
+Kd 0.996078 0.035294 0.039216
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl iceoff
+Ks 0.000000 0.000000 0.000000
+Ns 49.919998
+map_Kd icepinlightoff.TIFF
+d 1.000000
+newmtl iceon
+Ks 0.000000 0.000000 0.000000
+Ns 49.919998
+map_Kd icelighton.TIFF
+d 1.000000
+newmtl backgroundsky12
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd starrynight3half.TIFF
+d 1.000000
+newmtl backgroundsky122
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd starrynight3half.TIFF
+d 1.000000
+newmtl moon
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd Moon.TIFF
+d 1.000000
+newmtl watergutter
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd watertiledark.TIFF
+d 1.000000
+newmtl icebergtop3
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd icberg3.TIFF
+d 1.000000
+newmtl headbehind
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd headbehind4.TIFF
+d 1.000000
+newmtl iceberghand
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd iceberghand2.TIFF
+d 1.000000
+newmtl icebergheadmouth1TR
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd iceberghead3.TIFF
+d 1.000000
+newmtl icebergheadmouth1TL
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd iceberghead2.TIFF
+d 1.000000
+newmtl icebergtop2
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd icberg2.TIFF
+d 1.000000
+newmtl tail
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd tail3.TIFF
+d 1.000000
+newmtl icebergheadmouth1
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd dragonthroat2.TIFF
+d 1.000000
+newmtl icebergthroat
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd dragonthroat2.TIFF
+d 1.000000
+newmtl null
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+d 0.000000
+newmtl icebergDEFLECTOR
+Kd 1.000000 0.000000 0.035294
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 0.595000

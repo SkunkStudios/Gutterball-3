@@ -1,0 +1,435 @@
+newmtl gutteroverlapL
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd junglegutterOverlap2.TIFF
+d 1.000000
+newmtl grassinsideHEADlft
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd grassintoshadow1.TIFF
+d 1.000000
+newmtl RtBttmLightChannel
+Ks 0.000000 0.000000 0.000000
+Ns 49.919998
+map_Kd jungleGrass3.TIFF
+d 1.000000
+newmtl gutteroverlap
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd junglegutterOverlap2.TIFF
+d 1.000000
+newmtl grassinsideHEAD
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd grassintoshadow1.TIFF
+d 1.000000
+newmtl grassbackground
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd jungleGrass3.TIFF
+d 1.000000
+newmtl LftBttmLightChannel
+Ks 0.000000 0.000000 0.000000
+Ns 49.919998
+map_Kd jungleGrass3.TIFF
+d 1.000000
+newmtl LanesApproach
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd returnStone2.TIFF
+d 1.000000
+newmtl approachgrass
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd jungleGrass3.TIFF
+d 1.000000
+newmtl Bumper07
+Ks 0.149020 0.149020 0.149020
+Ns 12.800000
+map_Kd junglebackwall2.TIFF
+d 1.000000
+newmtl gutterl
+Ks 0.047059 0.047059 0.047059
+Ns 62.720001
+map_Kd jungleLANEdoubleNEW.TIFF
+d 1.000000
+newmtl gutterr
+Ks 0.047059 0.047059 0.047059
+Ns 62.720001
+map_Kd jungleLANEdoubleNEW.TIFF
+d 1.000000
+newmtl Lane
+Ks 0.047059 0.047059 0.047059
+Ns 62.720001
+map_Kd jungleLANEdoubleNEW.TIFF
+d 1.000000
+newmtl ballReturnrpart2
+Ks 0.000000 0.000000 0.000000
+Ns 49.919998
+map_Kd jungleLANEdoubleNEW.TIFF
+d 1.000000
+newmtl ballReturnrpart1
+Ks 0.000000 0.000000 0.000000
+Ns 49.919998
+map_Kd jungleLANEdoubleNEW.TIFF
+d 1.000000
+newmtl returnrholder
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd returnStone2.TIFF
+d 1.000000
+newmtl returnrchannel
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd jungleLANEdoubleNEW.TIFF
+d 1.000000
+newmtl returnend
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd returnStone2.TIFF
+d 1.000000
+newmtl returnrrampsides
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd returnStone2.TIFF
+d 1.000000
+newmtl sweeper-barTOP
+Ks 0.000000 0.000000 0.000000
+Ns 49.919998
+map_Kd bamboo1.TIFF
+d 1.000000
+newmtl sweeper-barBTM
+Ks 0.000000 0.000000 0.000000
+Ns 49.919998
+map_Kd bamboo1.TIFF
+d 1.000000
+newmtl sweeper-edges
+Kd 0.749020 0.709804 0.415686
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl sweeper-panels
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd bamboo1.TIFF
+d 1.000000
+newmtl sweeper-armsides
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd bamboo1.TIFF
+d 1.000000
+newmtl bamboopole1
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd bamboo1.TIFF
+d 1.000000
+newmtl bamboopoleends
+Kd 0.784314 0.756863 0.447059
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl sweeper-panelsBACK
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd bamboo1.TIFF
+d 1.000000
+newmtl backwalldark
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl backwall
+Ks 0.000000 0.000000 0.000000
+Ns 49.919998
+map_Kd junglebackwall3.TIFF
+d 1.000000
+newmtl pinjungle
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd PINstonessmall1.TIFF
+d 1.000000
+newmtl cheekR
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd cheeksstone8.TIFF
+d 1.000000
+newmtl cheekRbtm
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd cheeksstone8.TIFF
+d 1.000000
+newmtl cheekLbtm
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd cheeksstone8.TIFF
+d 1.000000
+newmtl cheekL
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd cheeksstone8.TIFF
+d 1.000000
+newmtl facenose
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd cheeksstone8.TIFF
+d 1.000000
+newmtl cheektilehole3
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd cheeksstone8.TIFF
+d 1.000000
+newmtl headgrey1
+Kd 0.529412 0.529412 0.529412
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl cheektilehole2
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd cheeksstone8.TIFF
+d 1.000000
+newmtl cheekbrickshit1
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd cheeksstone8.TIFF
+d 1.000000
+newmtl faceeyes
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd eareyesNEW.TIFF
+d 1.000000
+newmtl headtempleleft
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd TempleTEST1.TIFF
+d 1.000000
+newmtl headtempleright
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd TempleTEST1.TIFF
+d 1.000000
+newmtl eyeholeright
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd meyeholesshadow2.TIFF
+d 1.000000
+newmtl eyeholeleft
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd meyeholesshadow2.TIFF
+d 1.000000
+newmtl mouthinnerRing
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd earinside2.TIFF
+d 1.000000
+newmtl mouthmiddlefront
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd mouthArtReduced1.TIFF
+d 1.000000
+newmtl mouthleftfront
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd mouthArtReduced1.TIFF
+d 1.000000
+newmtl mouthrightfront
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd mouthArtReduced1.TIFF
+d 1.000000
+newmtl mouthbrickout4
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd mmouthbricksOUT3256.TIFF
+d 1.000000
+newmtl mouthbrickout5
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd mmouthbricksOUT3256.TIFF
+d 1.000000
+newmtl HOLEside1
+Kd 0.231373 0.231373 0.231373
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl HOLEside2
+Kd 0.784314 0.784314 0.784314
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl HOLEside3
+Kd 0.564706 0.564706 0.564706
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl HOLEinside1
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd cheeksstone8.TIFF
+d 1.000000
+newmtl mouthbrickout2
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd mmouthbricksOUT3256.TIFF
+d 1.000000
+newmtl HOLEinside2
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd cheeksstone8.TIFF
+d 1.000000
+newmtl mouthbrickout6
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd mmouthbricksOUT3256.TIFF
+d 1.000000
+newmtl mouthbrickout1
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd mmouthbricksOUT3256.TIFF
+d 1.000000
+newmtl mouthbrickout3
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd mmouthbricksOUT3256.TIFF
+d 1.000000
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl mouthringoutside
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd earinside2.TIFF
+d 1.000000
+newmtl monkeythroatRIGHT
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd junglebackwall3.TIFF
+d 1.000000
+newmtl facenoseright
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd cheeksstone8.TIFF
+d 1.000000
+newmtl earback
+Kd 0.294118 0.282353 0.278431
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+d 1.000000
+newmtl earleftUL
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd eareyesNEW.TIFF
+d 1.000000
+newmtl earleftLL
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd eareyesNEW.TIFF
+d 1.000000
+newmtl earleftUR
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd eareyesNEW.TIFF
+d 1.000000
+newmtl earcenter
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd earinside2.TIFF
+d 1.000000
+newmtl treeTall1
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd jungleTREEtall3shaded.TIFF
+d 1.000000
+newmtl treeTall1base3
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd jungleTREEtall3base.TIFF
+d 1.000000
+newmtl treeTall1base1
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd jungleTREEtall3base.TIFF
+d 1.000000
+newmtl treeTall1base2
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd jungleTREEtall3base.TIFF
+d 1.000000
+newmtl watergutter
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd watertile1.TIFF
+d 1.000000
+newmtl junglesecondary
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd junglesecondary5.TIFF
+d 1.000000
+newmtl junglesecondaryBACK
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd junglesecondary5.TIFF
+d 1.000000
+newmtl jungleroofgap
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd junglecanopy2.TIFF
+d 1.000000
+newmtl jungleroofleaves
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd junglecanopy3.TIFF
+d 1.000000
+newmtl approachbricksingle
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd junglebrickSingle.TIFF
+d 1.000000
+newmtl approachbrickFB
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd junglebrickSingle.TIFF
+d 1.000000
+newmtl approachbricktop
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd junglebrickSingle.TIFF
+d 1.000000
+newmtl pinLightframe
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd junglepinLightholder3.TIFF
+d 1.000000
+newmtl jungleoff
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd coconutoff.TIFF
+d 1.000000
+newmtl jungleon
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd coconuton.TIFF
+d 1.000000
+newmtl brickbevel1
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd junglebrickSingle.TIFF
+d 1.000000
+newmtl brickbevel2
+Ks 0.000000 0.000000 0.000000
+Ns 51.200001
+map_Kd junglebrickSingle.TIFF
+d 1.000000
+newmtl Baricade01
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 49.919998
+d 0.000000
+newmtl Baricade02
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 49.919998
+d 0.000000
